@@ -594,15 +594,6 @@ body.light-theme {
   z-index: var(--z-modal);
 }
 
-
-.services__modal-content {
-  position: relative;
-  background-color: var(--body-color);
-  padding: 4.5rem 1.5rem 2.5rem;
-  border-radius: 1.5rem;
-
-}
-
 .services__modal-title,
 .services__modal-description {
   text-align: center;

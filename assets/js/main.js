@@ -140,9 +140,6 @@ const sr = ScrollReveal({
     delay: 0,
     reset: true
 })
-sr.reveal('.section__title', {delay: 0, origin: 'bottom'})
-sr.reveal('.section__subtitle', {delay: 0, origin: 'bottom'})
-
 sr.reveal('.skills__content', {delay: 100, origin: 'bottom'})
 sr.reveal('.services__container', {delay: 100, origin: 'bottom'})
 sr.reveal('.work__container', {delay: 100, origin: 'bottom'})
